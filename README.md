@@ -1,4 +1,4 @@
-# mayaarafa
+# Maya Arafa
  
 ### Hi there 👋 My name is Maya Arafa
 
