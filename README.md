@@ -1,6 +1,6 @@
 # mayaarafa
  
-### Hi there 👋 My name is Maya
+### Hi there 👋 My name is Maya Arafa
 
 <!--
 **mayaarafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
